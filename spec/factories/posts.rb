@@ -1,5 +1,6 @@
 FactoryBot.define do
     factory :post do
-      title { 'title' }
+      title { 'titleです' }
+      content { 'contentです' }
     end
   end
